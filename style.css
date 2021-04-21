@@ -1,0 +1,19 @@
+body    {
+    margin:0;
+    padding:0;
+}
+
+h1 {
+	text-align: right;
+	margin: 0;
+	margin-right: 25vw;
+}
+
+table {
+	width: 90vw;
+	margin: 0 auto;
+}
+
+table tr, td, th    {
+    border: double 3px black;
+}
